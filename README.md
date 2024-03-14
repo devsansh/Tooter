@@ -1,2 +1,2 @@
-# Tooter
-A terminal FPS game.
+# Tooter - 🔫
+A C++ based terminal FPS game engine.
